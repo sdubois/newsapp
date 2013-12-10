@@ -4,5 +4,10 @@
 
    body {
     margin:0;
-    padding-top: 50px;
-   }
+    padding-top: 70px;
+  }
+
+  .entry {
+    display: inline-block !important;
+    vertical-align: middle !important;
+  }
